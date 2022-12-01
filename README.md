@@ -1,4 +1,4 @@
-# Hand-Finguer-Count-Python
+# Hand-Finger-Count-Python
 Presentation of an approach and an algorithm for recognizing of hand signs (Count from 1 to 5).
 
 In this projrct we are presenitng an approach and an algorithm for the recognizinig hand sign based on cosinus theorem.

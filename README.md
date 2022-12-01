@@ -18,6 +18,9 @@ For this we applied:
 
 Then we chose the best combination between this methods to get the best results.
 
+
+Then We Applied defect convexity Methodes to calculate the angle
+
 Results : 
 
 ![Screenshot](result/0.png), ![Screenshot](result/2.png), ![Screenshot](result/3.png) ,![Screenshot](result/4.png) , ![Screenshot](result/5.png) 

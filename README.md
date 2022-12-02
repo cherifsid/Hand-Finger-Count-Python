@@ -15,6 +15,16 @@ For this we applied:
 2. HSV Segmentation.
 3. Segmentation by YCbCr Color Space.
 
+<p float="center">
+  <img src="/images/seg1.PNG" width="500" />
+  <img src="/images/seg3.PNG" width="500" />
+</p>
+<p float="left">
+   <img src="/images/seg4.PNG" width="600" />
+</p>
+
+
+
 
 Then we chose the best combination between this methods to get the best results.
 
@@ -23,5 +33,5 @@ Then We Applied defect convexity Methodes to calculate the angle
 
 Results : 
 
-![Screenshot](result/0.png), ![Screenshot](result/2.png), ![Screenshot](result/3.png) ,![Screenshot](result/4.png) , ![Screenshot](result/5.png) 
+![Screenshot](result/0.png),![Screenshot](result/1.png), ![Screenshot](result/2.png), ![Screenshot](result/3.png) ,![Screenshot](result/4.png) , ![Screenshot](result/5.png) 
 
